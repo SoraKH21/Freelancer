@@ -10,7 +10,7 @@
 html {
     font-size: 62.5%;
     box-sizing: border-box; /* hack box model */
-    scroll-snap-type: y proximity;
+    scroll-snap-type: y mandatory;
 }
 *, *:before, *:after {
     box-sizing: inherit;
